@@ -1,0 +1,55 @@
+body {
+  font-family: Montserrat;
+}
+
+#title {
+  background-color:pink;
+  height: 641px;
+}
+
+h1 {
+  font-family:inherit;
+  font-style:normal;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+h2{
+  font-weight: bold;
+
+}
+h3 {
+  font-weight: bolder;
+    color:#7B68EE;
+}
+
+.navbar {
+  padding:0 0 6rem 0;
+}
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 1rem;
+  font-weight: 20px;
+
+}
+.nav-item {
+  padding: 0 15px;
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.row {
+  text-align: center;
+  padding: 4% 5%;
+  padding-bottom: 0 5rem 6rem 0;
+  margin: 0 0 0 0;
+}
+
+#detail {
+  padding: 7% 15%;
+}
+
+#carousel{
+  width: 400px;
+  height: 300px;
+}
