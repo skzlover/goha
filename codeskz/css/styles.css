@@ -1,0 +1,134 @@
+body {
+  font-family: Montserrat;
+}
+
+#title {
+  background-color:pink;
+  height: 641px;
+}
+
+#third{
+
+ font-variant-position: sub;
+  background-color:pink;
+  height: 50px;
+  text-align: center;
+}
+
+#album{
+  background-color:pink;
+  height: 50px;
+}
+
+#list{
+  color: pink;
+  padding: 5% 15%;
+  margin-top: 0;
+  margin-left: 4rem;
+  text-align:center;
+  
+
+}
+
+#all{
+  text-align: center;
+  column-count: 3;
+  margin-left: 3rem;
+}
+
+h1 {
+  text-align: center;
+  font-family:inherit;
+  font-style:normal;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+h2{
+  font-weight: bold;
+
+}
+h3 {
+  font-size: 2rem;
+  font-weight: bolder;
+    color:#7B68EE;
+}
+
+h4{
+ font-size: 1.5rem;
+ color:black;
+}
+
+p{
+  font-size: 1.5rem;
+  color:black;
+}
+
+mark{
+  color:black;
+  background-color: #7FFFD4;
+}
+
+.navbar {
+  padding:0 0 6rem 0;
+}
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 1rem;
+  font-weight: 20px;
+
+}
+
+.navbar-brand {
+  font-family: monospace;
+
+  font-size: 1rem;
+  font-weight: 20px;
+
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.pic{
+  margin-top: 0;
+}
+
+.text{
+  text-align:center;
+}
+
+.row {
+  font-family:inherit;
+  display:flex;
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 4rem;
+  padding-left: 0;
+  margin-top:0;
+  height: 400px;
+
+}
+
+#detail {
+  padding: 7% 15%;
+  margin-top: 15rem;
+
+  height: 200px;
+}
+
+#carousel{
+  width: 400px;
+  height: 300px;
+}
+
+
+.images{
+  text-align: center;
+  padding: 4% 5%;
+  padding-bottom: 0 5rem 6rem 0;
+  margin: 0 0 0 0;
+}
